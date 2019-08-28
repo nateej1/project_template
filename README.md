@@ -8,7 +8,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
-|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
+|Nateé Johnnson | [nateej1](https://github.com/nateej1)| [nateej1.github.io](https://nateej1.github.io/)  |
 |-------| [---](#) | --- |
 
 ### Methods Used
